@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "d8d20382243bb866",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c03ade40cc75f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da4c9031649f2b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "排序/冒泡排序.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "266f389755339ef3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9f4952350e93402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cd78f9cb1d05de1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cbbd700d83184c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "649c189054b6df9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4047817e5a43e198",
+    "type": "split",
+    "children": [
+      {
+        "id": "f67e032b05424ae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cf0aeb3994a14c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "排序/冒泡排序.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ad8b053ddcd7bfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "排序/冒泡排序.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a805a76b9bbc0699",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0b92e76782cec0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "排序/冒泡排序.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "da4c9031649f2b56",
+  "lastOpenFiles": [
+    "排序/选择排序.md",
+    "二分查找.md",
+    "高精度模拟.md",
+    "2024-04-07.md",
+    "二叉树.md"
+  ]
+}
