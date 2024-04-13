@@ -17,7 +17,7 @@ sudo pacman -S --needed base-devel git
 
 **步骤 2：克隆 Yay Git 仓库并切换到它**
 
-[使用 git 命令](https://link.zhihu.com/?target=https%3A//itsfoss.com/basic-git-commands-cheat-sheet/) “克隆” Yay 仓库。你可以在系统中的任何位置执行此操作，无论是主目录还是其他目录。
+[使用 git 命令](https://link.zhihu.com/?target=https%3A//itsfoss.com/basic-git-commands-cheat-sheet/)“克隆” Yay 仓库。你可以在系统中的任何位置执行此操作，无论是主目录还是其他目录。
 
 ```
 git clone https://aur.archlinux.org/yay.git

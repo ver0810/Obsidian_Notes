@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b1c360cc017e3859",
+        "id": "f812c37a5a6f8ac3",
         "type": "tabs",
         "children": [
           {
-            "id": "8834cfab2049ed0a",
+            "id": "71eedba45993068f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ea59e022f30b452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "app.md",
+                "file": "obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "app.md",
+                "file": "obsidian.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "app.md",
+                "file": "obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "app.md"
+                "file": "obsidian.md"
               }
             }
           },
@@ -150,12 +137,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,15 +156,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ea59e022f30b452",
+  "active": "71eedba45993068f",
   "lastOpenFiles": [
     "README.md",
-    "app.md",
     "Markdown 教程.md",
-    "Task.md",
+    "obsidian.md",
     "Archlinux安装.md",
+    "app.md",
     "装饰器_decorators_.md",
+    "Task.md",
+    "英语演讲.md",
     "学习进度.md",
+    "离散数学第一次作业.md",
+    "Firefox.md",
+    "vscode.md",
     "algorithm/二叉树.md",
     "algorithm/二分查找.md",
     "贪心.md",
@@ -186,7 +178,6 @@
     "algorithm/排序/冒泡排序.md",
     "algorithm/排序",
     "algorithm",
-    "离散数学第一次作业.md",
     "算法学习/高精度模拟.md",
     "算法学习/排序/冒泡排序.md",
     "算法学习/排序/选择排序.md",
@@ -196,7 +187,6 @@
     "2023-12-16.md",
     "().md",
     "算法学习/排序",
-    "英语演讲.md",
     "未命名 1.canvas",
     "算法学习"
   ]
