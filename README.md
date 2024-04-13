@@ -2,5 +2,4 @@
 
 There will be some notes about learning.
 
-## [[Task]]
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5635535d970289b9",
+        "id": "b1c360cc017e3859",
         "type": "tabs",
         "children": [
           {
-            "id": "542f777a7f46d28c",
+            "id": "8834cfab2049ed0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,13 +155,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "542f777a7f46d28c",
+  "active": "8834cfab2049ed0a",
   "lastOpenFiles": [
+    "README.md",
     "Task.md",
+    "装饰器_decorators_.md",
     "学习进度.md",
     "algorithm/二叉树.md",
     "algorithm/二分查找.md",
-    "README.md",
     "Markdown 教程.md",
     "贪心.md",
     "algorithm/高精度模拟.md",
@@ -169,7 +170,6 @@
     "algorithm/排序/冒泡排序.md",
     "algorithm/排序",
     "algorithm",
-    "装饰器_decorators_.md",
     "Archlinux安装.md",
     "离散数学第一次作业.md",
     "算法学习/高精度模拟.md",
