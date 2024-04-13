@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ffc6dbd093262ad",
+        "id": "5635535d970289b9",
         "type": "tabs",
         "children": [
           {
-            "id": "2dd04dd85461bace",
+            "id": "542f777a7f46d28c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习进度.md",
+                "file": "Task.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习进度.md",
+                "file": "Task.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习进度.md",
+                "file": "Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习进度.md"
+                "file": "Task.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -154,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2dd04dd85461bace",
+  "active": "542f777a7f46d28c",
   "lastOpenFiles": [
     "Task.md",
     "学习进度.md",
