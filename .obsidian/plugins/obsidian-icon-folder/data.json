@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#1b51d0",
     "recentlyUsedIcons": [
+      "FabReadme",
       "FabSearchengin",
       "FarFile",
       "FabMarkdown"
@@ -27,5 +28,5 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "algorithm": "FarFile"
+  "README.md": "FabReadme"
 }

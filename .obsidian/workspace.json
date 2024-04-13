@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "algorithm/二叉树.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "algorithm/二叉树.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "algorithm/二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "algorithm/二叉树.md"
               }
             }
           },
@@ -154,18 +154,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9fa263d2dd19e100",
+  "active": "2dd04dd85461bace",
   "lastOpenFiles": [
+    "algorithm/二分查找.md",
     "Task.md",
+    "README.md",
     "Markdown 教程.md",
     "贪心.md",
-    "README.md",
     "algorithm/高精度模拟.md",
     "algorithm/排序/选择排序.md",
     "algorithm/排序/冒泡排序.md",
     "algorithm/排序",
     "algorithm/二叉树.md",
-    "algorithm/二分查找.md",
     "algorithm",
     "装饰器_decorators_.md",
     "Archlinux安装.md",
