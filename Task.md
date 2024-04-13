@@ -1,3 +1,5 @@
 **Task can place here.**
 
-The computer science guide.
+Daily Task
+- [ ] learning some measures of plugins 🛫 2024-04-13
+- [ ] 
