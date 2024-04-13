@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "1bfb9ad9e575c23c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ffc6dbd093262ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dd04dd85461bace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9681b2937a994bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e389e7162f0db33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fa263d2dd19e100",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f17a788f57e41290",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8f497b9303436b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "40d374c51d756c4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c17963d893f359e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7afff070434e497",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Task.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43283dfc25d18933",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Task.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e08aeb7cecae0bbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd85753dd8f4449e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Task.md"
+              }
+            }
+          },
+          {
+            "id": "43101aae09f4a4b3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9fa263d2dd19e100",
+  "lastOpenFiles": [
+    "algorithm/高精度模拟.md",
+    "algorithm/排序/选择排序.md",
+    "algorithm/排序/冒泡排序.md",
+    "algorithm/排序",
+    "algorithm/二叉树.md",
+    "algorithm/二分查找.md",
+    "algorithm",
+    "装饰器_decorators_.md",
+    "Task.md",
+    "README.md",
+    "Markdown 教程.md",
+    "Archlinux安装.md",
+    "离散数学第一次作业.md",
+    "学习进度.md",
+    "算法学习/高精度模拟.md",
+    "算法学习/排序/冒泡排序.md",
+    "算法学习/排序/选择排序.md",
+    "未命名.canvas",
+    "算法学习/二叉树.md",
+    "算法学习/二分查找.md",
+    "2023-12-16.md",
+    "().md",
+    "算法学习/排序",
+    "英语演讲.md",
+    "贪心.md",
+    "未命名 1.canvas",
+    "算法学习"
+  ]
+}
