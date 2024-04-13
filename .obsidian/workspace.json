@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,6 +156,10 @@
   },
   "active": "9fa263d2dd19e100",
   "lastOpenFiles": [
+    "Task.md",
+    "Markdown 教程.md",
+    "贪心.md",
+    "README.md",
     "algorithm/高精度模拟.md",
     "algorithm/排序/选择排序.md",
     "algorithm/排序/冒泡排序.md",
@@ -164,9 +168,6 @@
     "algorithm/二分查找.md",
     "algorithm",
     "装饰器_decorators_.md",
-    "Task.md",
-    "README.md",
-    "Markdown 教程.md",
     "Archlinux安装.md",
     "离散数学第一次作业.md",
     "学习进度.md",
@@ -180,7 +181,6 @@
     "().md",
     "算法学习/排序",
     "英语演讲.md",
-    "贪心.md",
     "未命名 1.canvas",
     "算法学习"
   ]

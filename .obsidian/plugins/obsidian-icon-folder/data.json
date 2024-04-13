@@ -5,7 +5,11 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": "#1b51d0",
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FabSearchengin",
+      "FarFile",
+      "FabMarkdown"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -16,11 +20,12 @@
     },
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterEnabled": true,
     "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "algorithm": "FarFile"
 }
