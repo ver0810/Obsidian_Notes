@@ -34,3 +34,11 @@ cd yay
 ```
 makepkg -si
 ```
+
+### 常用软件
+
+- shell:zsh,fish
+- terminal: kitty, alacritty, wezterm
+- editor: vscode, neovim, vim
+- file manerge: ranger
+- other:neofetch, git, wofi, 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f812c37a5a6f8ac3",
+        "id": "8a9bb8782815a86e",
         "type": "tabs",
         "children": [
           {
-            "id": "71eedba45993068f",
+            "id": "a85231d21e0fdafd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian.md",
+                "file": "Task.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "Task.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian.md",
+                "file": "Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md"
+                "file": "Task.md"
               }
             }
           },
@@ -136,8 +136,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "607ccef43e0e26b6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,36 +165,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71eedba45993068f",
+  "active": "a85231d21e0fdafd",
   "lastOpenFiles": [
-    "README.md",
-    "Markdown 教程.md",
-    "obsidian.md",
-    "Archlinux安装.md",
-    "app.md",
-    "装饰器_decorators_.md",
     "Task.md",
-    "英语演讲.md",
+    "README.md",
+    "assignment for animation appreciation.md",
+    "algorithm/树/二叉树.md",
+    "algorithm/树/Trees.md",
+    "algorithm/树/二叉树的遍历.md",
+    "algorithm/树/二叉搜索树（Binary Search Tree）.md",
+    "algorithm/二分查找.md",
+    "algorithm/高精度模拟.md",
+    "algorithm/贪心.md",
     "学习进度.md",
+    "Archlinux安装.md",
+    "C++重载运算符和重载函数.md",
+    "app.md",
+    "未分类",
+    "algorithm/树",
+    "algorithm/排序/插入排序.md",
+    "Markdown 教程.md",
+    "装饰器_decorators_.md",
+    "obsidian.md",
+    "algorithm/排序/选择排序.md",
+    "英语演讲.md",
     "离散数学第一次作业.md",
     "Firefox.md",
     "vscode.md",
-    "algorithm/二叉树.md",
-    "algorithm/二分查找.md",
-    "贪心.md",
-    "algorithm/高精度模拟.md",
-    "algorithm/排序/选择排序.md",
     "algorithm/排序/冒泡排序.md",
     "algorithm/排序",
     "algorithm",
     "算法学习/高精度模拟.md",
-    "算法学习/排序/冒泡排序.md",
-    "算法学习/排序/选择排序.md",
     "未命名.canvas",
-    "算法学习/二叉树.md",
-    "算法学习/二分查找.md",
-    "2023-12-16.md",
-    "().md",
     "算法学习/排序",
     "未命名 1.canvas",
     "算法学习"
