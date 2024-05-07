@@ -4,6 +4,6 @@
   "translucency": false,
   "cssTheme": "Things",
   "theme": "obsidian",
-  "textFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono,JetBrainsMono Nerd Font",
   "interfaceFontFamily": "Microsoft YaHei UI,Microsoft Sans Serif"
 }
