@@ -5,4 +5,4 @@
 ```
 ## Recent
 
-- [ ] the final assignment for animination appreciate 📅 202
+- [ ] the final [[assignment for animation appreciation]] 📅 2024-6-9
