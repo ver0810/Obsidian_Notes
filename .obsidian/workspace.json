@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8684afe48455b16",
+        "id": "b2d1be8963855e3f",
         "type": "tabs",
         "children": [
           {
-            "id": "ab4540257176142b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/高精度模拟.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c35082bedde4da7a",
+            "id": "73bef9edd02673db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c35082bedde4da7a",
+  "active": "73bef9edd02673db",
   "lastOpenFiles": [
     "README.md",
     "Markdown 教程.md",
