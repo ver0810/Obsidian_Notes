@@ -4,10 +4,11 @@
 
 *Nothing to do today !!!*
 
-### Recent
+```tasks
+```
+## Recent
 - [ ] Final [[assignment for animation appreciation]] 📅 2024-06-09
 - [ ] 
 =======
 Daily Task
-- [ ] learning some measures of plugins 🛫 2024-04-13
->>>>>>> origin/master
+- [ ] learning some measures of plugins 🛫 2024-04-13 

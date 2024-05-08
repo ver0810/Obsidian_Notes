@@ -42,3 +42,8 @@ makepkg -si
 - editor: vscode, neovim, vim
 - file manerge: ranger
 - other:neofetch, git, wofi, 
+
+
+> [!Info] archlinux 长时间不更新会导致软件更新错误
+> *解决办法* 删除/var/pacman/db.lck
+
