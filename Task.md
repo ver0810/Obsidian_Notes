@@ -3,9 +3,6 @@
 ```tasks
 
 ```
-### Recent
-```tasks
-```
-- [ ] Final [[assignment for animation appreciation]] 📅 2024-06-09 
-- [ ] Reading one hour 📅 2024-5-8 
-- [ ] 
+## Recent
+
+- [ ] the final assignment for animination appreciate 📅 202
