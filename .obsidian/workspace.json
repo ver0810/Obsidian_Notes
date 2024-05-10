@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8898f58410903397",
+        "id": "4b170a129b08582d",
         "type": "tabs",
         "children": [
           {
-            "id": "ee61b7bc21ab0900",
+            "id": "9a7c36927a177c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shell.md",
+                "file": "Hyprland 下高分辨率缩放.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shell.md",
+                "file": "Hyprland 下高分辨率缩放.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shell.md",
+                "file": "Hyprland 下高分辨率缩放.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shell.md"
+                "file": "Hyprland 下高分辨率缩放.md"
               }
             }
           },
@@ -165,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee61b7bc21ab0900",
+  "active": "9a7c36927a177c60",
   "lastOpenFiles": [
     "Task.md",
     "obsidian.md",
