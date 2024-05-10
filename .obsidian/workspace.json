@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b7c56211ab5ce45",
+        "id": "a96abd8a837ed96b",
         "type": "tabs",
         "children": [
           {
-            "id": "3433062fa1c30fcd",
+            "id": "e3da7aa4f8ec4cf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task.md",
+                "file": "Archlinux安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task.md",
+                "file": "Archlinux安装.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task.md",
+                "file": "Archlinux安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task.md"
+                "file": "Archlinux安装.md"
               }
             }
           },
@@ -165,17 +165,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3433062fa1c30fcd",
+  "active": "e3da7aa4f8ec4cf7",
   "lastOpenFiles": [
-    "obsidian.md",
+    "app.md",
+    "Archlinux安装.md",
+    "Hyprlandn高分辨率i下的缩放模糊",
+    "shell.md",
     "Task.md",
-    "英语演讲.md",
+    "assignment for animation appreciation.md",
     "C++重载运算符和重载函数.md",
     "Markdown 教程.md",
+    "obsidian.md",
+    "英语演讲.md",
     "README.md",
-    "Archlinux安装.md",
     "装饰器_decorators_.md",
-    "assignment for animation appreciation.md",
     "学习进度.md",
     "conflict-files-obsidian-git.md",
     "algorithm/高精度模拟.md",
@@ -184,7 +187,6 @@
     "algorithm/树/二叉树的遍历.md",
     "algorithm/树/二叉搜索树（Binary Search Tree）.md",
     "algorithm/树/Trees.md",
-    "app.md",
     "algorithm/二分查找.md",
     "未分类",
     "algorithm/树",
@@ -193,10 +195,8 @@
     "离散数学第一次作业.md",
     "Firefox.md",
     "vscode.md",
-    "algorithm/排序/冒泡排序.md",
     "algorithm/排序",
     "algorithm",
-    "算法学习/高精度模拟.md",
     "未命名.canvas",
     "算法学习/排序",
     "未命名 1.canvas",
