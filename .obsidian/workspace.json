@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "450b79daeacfc152",
+        "id": "bff079ec8162dae7",
         "type": "tabs",
         "children": [
           {
-            "id": "6620242545de0510",
+            "id": "8b1a776737a08ee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shell.md",
+                "file": "Task.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shell.md",
+                "file": "Task.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shell.md",
+                "file": "Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shell.md"
+                "file": "Task.md"
               }
             }
           },
@@ -165,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6620242545de0510",
+  "active": "8b1a776737a08ee5",
   "lastOpenFiles": [
     "Task.md",
     "shell.md",
