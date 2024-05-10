@@ -27,5 +27,7 @@ xrdb -merge ~/.Xresources
 
 > [!Note] 在设置上述后，会出现输入法的框错位的情况
 
-这是由于electron的原因
-啊速读法
+**对于electron**
+可以单个给软件设置命令行参数，或者时全局配置
+
+将/usr/share/applicatios 复制到 家目录下的 ~/.local/share/applications 可以防止
