@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a96abd8a837ed96b",
+        "id": "64739a6b6cec5838",
         "type": "tabs",
         "children": [
           {
-            "id": "da95dce44e9943b6",
+            "id": "ec71cbd4cf53c289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyprland 下高分辨率缩放.md",
+                "file": "shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hyprland 下高分辨率缩放.md",
+                "file": "shell.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hyprland 下高分辨率缩放.md",
+                "file": "shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hyprland 下高分辨率缩放.md"
+                "file": "shell.md"
               }
             }
           },
@@ -165,10 +165,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da95dce44e9943b6",
+  "active": "ec71cbd4cf53c289",
   "lastOpenFiles": [
-    "shell.md",
     "Task.md",
+    "shell.md",
     "Archlinux安装.md",
     "obsidian.md",
     "README.md",
