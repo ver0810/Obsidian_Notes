@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bff079ec8162dae7",
+        "id": "fbac829c782f2881",
         "type": "tabs",
         "children": [
           {
-            "id": "8b1a776737a08ee5",
+            "id": "3e2535ff4e7199cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task.md",
+                "file": "Hyprland 下高分辨率缩放.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task.md",
+                "file": "Hyprland 下高分辨率缩放.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task.md",
+                "file": "Hyprland 下高分辨率缩放.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task.md"
+                "file": "Hyprland 下高分辨率缩放.md"
               }
             }
           },
@@ -165,15 +165,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b1a776737a08ee5",
+  "active": "3e2535ff4e7199cd",
   "lastOpenFiles": [
-    "Task.md",
-    "shell.md",
-    "Archlinux安装.md",
     "obsidian.md",
     "README.md",
-    "Hyprland 下高分辨率缩放.md",
+    "Task.md",
+    "shell.md",
     "app.md",
+    "Archlinux安装.md",
+    "Hyprland 下高分辨率缩放.md",
     "Hyprlandn高分辨率i下的缩放模糊",
     "assignment for animation appreciation.md",
     "C++重载运算符和重载函数.md",

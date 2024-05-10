@@ -25,4 +25,6 @@ Xft.dpi: 192
 xrdb -merge ~/.Xresources
 ```
 
-dfasdfsdfasdfasdfasddsf sdfsdfa
+> [!Note] 在设置上述后，会出现输入法的框错位的情况
+
+这是由于electron的原因
