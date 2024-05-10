@@ -24,3 +24,4 @@ Xft.dpi: 192
 # 应用效果
 xrdb -merge ~/.Xresources
 ```
+

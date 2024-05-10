@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3da7aa4f8ec4cf7",
+            "id": "da95dce44e9943b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "da95dce44e9943b6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -173,11 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3da7aa4f8ec4cf7",
+  "active": "da95dce44e9943b6",
   "lastOpenFiles": [
-    "Archlinux安装.md",
-    "Task.md",
     "shell.md",
+    "Task.md",
+    "Archlinux安装.md",
     "obsidian.md",
     "README.md",
     "Hyprland 下高分辨率缩放.md",
