@@ -18,4 +18,4 @@ tags: []
 command < inputfile
 command < inputfile > outputfile
 
-速度发送地方速度发送地方sdfas
+速度发
