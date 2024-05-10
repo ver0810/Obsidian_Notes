@@ -18,4 +18,3 @@ tags: []
 command < inputfile
 command < inputfile > outputfile
 
-速度发
