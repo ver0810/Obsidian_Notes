@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2736761c4b9e4970",
+        "id": "8898f58410903397",
         "type": "tabs",
         "children": [
           {
-            "id": "24d72fd5204c922b",
+            "id": "ee61b7bc21ab0900",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24d72fd5204c922b",
+  "active": "ee61b7bc21ab0900",
   "lastOpenFiles": [
     "Task.md",
     "obsidian.md",

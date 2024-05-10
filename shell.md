@@ -18,4 +18,4 @@ tags: []
 command < inputfile
 command < inputfile > outputfile
 
-asdf
+a
