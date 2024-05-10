@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archlinux安装.md",
+                "file": "Hyprland下的高.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "da95dce44e9943b6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archlinux安装.md",
+                "file": "Hyprland下的高.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archlinux安装.md",
+                "file": "Hyprland下的高.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archlinux安装.md"
+                "file": "Hyprland下的高.md"
               }
             }
           },
@@ -167,17 +175,18 @@
   },
   "active": "e3da7aa4f8ec4cf7",
   "lastOpenFiles": [
-    "app.md",
     "Archlinux安装.md",
-    "Hyprlandn高分辨率i下的缩放模糊",
-    "shell.md",
     "Task.md",
+    "shell.md",
+    "obsidian.md",
+    "README.md",
+    "Hyprland下的高.md",
+    "app.md",
+    "Hyprlandn高分辨率i下的缩放模糊",
     "assignment for animation appreciation.md",
     "C++重载运算符和重载函数.md",
     "Markdown 教程.md",
-    "obsidian.md",
     "英语演讲.md",
-    "README.md",
     "装饰器_decorators_.md",
     "学习进度.md",
     "conflict-files-obsidian-git.md",
