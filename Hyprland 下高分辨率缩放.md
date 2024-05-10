@@ -3,8 +3,21 @@
 
 解决办法禁用xwayland缩放，在*~/.config/hypr/hyprland.conf*
 
-```conf
+```bash
+# 先禁用XWayland的缩放
+# unscale XWayland
 xwayland {
-	force_zero_scaling = true
+  force_zero_scaling = true
 }
+
+# toolkit-specific scale
+env = GDK_SCALE,2
+env = XCURSOR_SIZE,32
+
+# 然后设置DPI为两倍（96是一倍，144是1.5倍，192是2倍）
+nano ~/.Xresources
+# 输入
+Xft.dpi: 192
+# 应用效果
+xrdb -merge ~/.Xresources
 ```
