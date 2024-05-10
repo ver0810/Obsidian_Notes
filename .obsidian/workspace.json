@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyprland.md",
+                "file": "Hyprland 下高分辨率缩放.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hyprland.md",
+                "file": "Hyprland 下高分辨率缩放.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hyprland.md",
+                "file": "Hyprland 下高分辨率缩放.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hyprland.md"
+                "file": "Hyprland 下高分辨率缩放.md"
               }
             }
           },
@@ -180,7 +180,7 @@
     "shell.md",
     "obsidian.md",
     "README.md",
-    "Hyprland.md",
+    "Hyprland 下高分辨率缩放.md",
     "app.md",
     "Hyprlandn高分辨率i下的缩放模糊",
     "assignment for animation appreciation.md",
