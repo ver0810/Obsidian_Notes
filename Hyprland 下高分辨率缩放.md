@@ -14,6 +14,9 @@ xwayland {
 env = GDK_SCALE,2
 env = XCURSOR_SIZE,32
 
+```
+
+```bash
 # 然后设置DPI为两倍（96是一倍，144是1.5倍，192是2倍）
 nano ~/.Xresources
 # 输入
