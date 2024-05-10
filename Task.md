@@ -9,4 +9,3 @@
 ## Recent
 - [ ] Final [[assignment for animation appreciation]] 📅 2024-06-09
 
-
