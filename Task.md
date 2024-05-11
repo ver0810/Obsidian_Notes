@@ -11,3 +11,4 @@ not done
 ## Recent
 
 - [ ] the final [[assignment for animation appreciation]] 📅 2024-6-9
+- [ ] MIT-Data structure 6006
