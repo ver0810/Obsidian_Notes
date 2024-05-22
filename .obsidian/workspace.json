@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "987439aa36f2199c",
+        "id": "36d583a5ce3f80d2",
         "type": "tabs",
         "children": [
           {
-            "id": "88e52d5f71a81355",
+            "id": "53e40e60b7cc42c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task.md",
+                "file": "学习进度.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "115b32d4637bd356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/English learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "007779afaf365337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/Account.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "40d374c51d756c4f",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task.md",
+                "file": "工具/Account.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task.md",
+                "file": "工具/Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task.md"
+                "file": "工具/Account.md"
               }
             }
           },
@@ -166,21 +190,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88e52d5f71a81355",
+  "active": "007779afaf365337",
   "lastOpenFiles": [
-    "README.md",
-    "Task.md",
-    "离散数学第一次作业.md",
+    "工具/English learning.md",
+    "工具/Account.md",
     "学习进度.md",
-    "英语演讲.md",
-    "装饰器_decorators_.md",
-    "obsidian.md",
-    "未命名.canvas",
-    "C++重载运算符和重载函数.md",
-    "assignment for animation appreciation.md",
-    "app.md",
-    "Archlinux安装.md",
+    "Task.md",
+    "conflict-files-obsidian-git.md",
+    "编程/C++重载运算符和重载函数.md",
+    "编程/装饰器_decorators_.md",
+    "作业相关/assignment for animation appreciation.md",
     "2024-05-08.md",
+    "工具/app.md",
+    "编程",
+    "作业相关",
+    "英语",
+    "工具/obsidian.md",
+    "工具",
+    "Linux",
+    "英语/英语演讲.md",
+    "编程/shell.md",
+    "Linux/Hyprland 下高分辨率缩放.md",
+    "README.md",
+    "工具/Markdown 教程.md",
+    "Linux/Archlinux安装.md",
+    "作业相关/离散数学第一次作业.md",
+    "未命名.canvas",
     "algorithm/排序/冒泡排序.md",
     "algorithm/排序/选择排序.md",
     "algorithm/排序/插入排序.md",
@@ -189,17 +224,11 @@
     "algorithm/高精度模拟.md",
     "algorithm/二分查找.md",
     "algorithm/树/Trees.md",
-    "Markdown 教程.md",
-    "conflict-files-obsidian-git.md",
-    "algorithm/贪心.md",
-    "algorithm/树/二叉树.md",
     "未分类",
     "algorithm/树",
-    "Firefox.md",
     "algorithm/排序",
     "algorithm",
     "算法学习/排序",
-    "未命名 1.canvas",
-    "算法学习"
+    "未命名 1.canvas"
   ]
 }

@@ -5,5 +5,6 @@
   "cssTheme": "Things",
   "theme": "obsidian",
   "textFontFamily": "JetBrains Mono,JetBrainsMono Nerd Font",
-  "interfaceFontFamily": "Microsoft YaHei UI,Microsoft Sans Serif"
+  "interfaceFontFamily": "Microsoft YaHei UI,Microsoft Sans Serif",
+  "baseFontSize": 16
 }
