@@ -1,0 +1,10 @@
+{
+  "CHROME_PATH": "",
+  "ThemePath": "MarpTheme\\",
+  "EnableHTML": true,
+  "MathTypesettings": "katex",
+  "HTMLExportMode": "bare",
+  "EXPORT_PATH": "C:\\Users\\ver\\Documents\\Obsidian Vault\\Obsidian_Notes\\",
+  "EnableSyncPreview": true,
+  "EnableMarkdownItPlugins": false
+}

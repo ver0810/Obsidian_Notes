@@ -1,4 +1,4 @@
-> [!Tip] **Task can place here.**
+> [!Tip] *Task can place here.*
 ## All Task
 ```tasks
 
@@ -11,10 +11,10 @@ not done
 ```
 ## Recent
 
-- [ ] the final [[assignment for animation appreciation]] 📅 2024-6-9
+- [x] the final [[assignment for animation appreciation]] 📅 2024-6-9 ✅ 2024-07-15
 - [ ] MIT-Data structure 6006
 =======
 ```tasks
 ```
 ## Recent
-- [ ] Final [[assignment for animation appreciation]] 📅 2024-06-09
+- [x] Final [[assignment for animation appreciation]] 📅 2024-06-09 ✅ 2024-07-15

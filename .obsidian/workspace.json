@@ -4,47 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "36d583a5ce3f80d2",
+        "id": "9bc15d7d227dea7c",
         "type": "tabs",
         "children": [
           {
-            "id": "53e40e60b7cc42c2",
+            "id": "920b0f04b2a1b114",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习进度.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "marp-preview-view",
+              "state": {}
             }
           },
           {
-            "id": "115b32d4637bd356",
+            "id": "9bf469632896b03b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/English learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "007779afaf365337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/Account.md",
+                "file": "Task.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/Account.md",
+                "file": "Task.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/Account.md",
+                "file": "Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/Account.md"
+                "file": "Task.md"
               }
             }
           },
@@ -187,48 +171,54 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "007779afaf365337",
+  "active": "9bf469632896b03b",
   "lastOpenFiles": [
-    "工具/English learning.md",
-    "工具/Account.md",
-    "学习进度.md",
+    "Yolov8.md",
     "Task.md",
+    "Linux/Hyprland 下高分辨率缩放.md",
+    "Linux/Archlinux安装.md",
+    "Stochastic Gradient Desent.md",
+    "README.md",
+    "学习进度.md",
+    "动画欣赏汇报.md",
+    "Yolov8.pptx",
+    "Competitions.md",
+    "Yolov8.html",
+    "MarpTheme/rose-pine-dawn.css",
+    "MarpTheme/rose-pine-moon.css",
+    "MarpTheme",
+    "Yolov8.002.png",
+    "Yolov8.001.png",
+    "Yolov8.004.png",
+    "Yolov8.005.png",
+    "Yolov8.003.png",
+    "质数筛选.md",
+    "作业相关/离散数学第一次作业.md",
+    "algorithm/DFS.md",
+    "algorithm/公约数.md",
+    "工具/Account.md",
+    "工具/app.md",
+    "工具/obsidian.md",
+    "工具/Markdown 教程.md",
+    "工具/English learning.md",
+    "algorithm/排序/冒泡排序.md",
+    "algorithm/排序/选择排序.md",
+    "algorithm/排序/插入排序.md",
     "conflict-files-obsidian-git.md",
     "编程/C++重载运算符和重载函数.md",
     "编程/装饰器_decorators_.md",
     "作业相关/assignment for animation appreciation.md",
     "2024-05-08.md",
-    "工具/app.md",
     "编程",
     "作业相关",
     "英语",
-    "工具/obsidian.md",
     "工具",
     "Linux",
-    "英语/英语演讲.md",
-    "编程/shell.md",
-    "Linux/Hyprland 下高分辨率缩放.md",
-    "README.md",
-    "工具/Markdown 教程.md",
-    "Linux/Archlinux安装.md",
-    "作业相关/离散数学第一次作业.md",
     "未命名.canvas",
-    "algorithm/排序/冒泡排序.md",
-    "algorithm/排序/选择排序.md",
-    "algorithm/排序/插入排序.md",
-    "algorithm/树/二叉树的遍历.md",
-    "algorithm/树/二叉搜索树（Binary Search Tree）.md",
-    "algorithm/高精度模拟.md",
-    "algorithm/二分查找.md",
-    "algorithm/树/Trees.md",
-    "未分类",
-    "algorithm/树",
-    "algorithm/排序",
-    "algorithm",
-    "算法学习/排序",
     "未命名 1.canvas"
   ]
 }

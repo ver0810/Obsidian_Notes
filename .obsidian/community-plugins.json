@@ -4,5 +4,6 @@
   "homepage",
   "obsidian-tasks-plugin",
   "table-editor-obsidian",
-  "dataview"
+  "dataview",
+  "marp-slides"
 ]
