@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "36d583a5ce3f80d2",
+        "id": "fcbb2b4365f84fe4",
         "type": "tabs",
         "children": [
           {
-            "id": "53e40e60b7cc42c2",
+            "id": "1c6aa3ac1fa10a2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习进度.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "115b32d4637bd356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/English learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "007779afaf365337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/Account.md",
+                "file": "Task.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "40d374c51d756c4f",
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/Account.md",
+                "file": "Task.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/Account.md",
+                "file": "Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/Account.md"
+                "file": "Task.md"
               }
             }
           },
@@ -180,17 +156,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "007779afaf365337",
+  "active": "1c6aa3ac1fa10a2c",
   "lastOpenFiles": [
     "工具/English learning.md",
     "工具/Account.md",
