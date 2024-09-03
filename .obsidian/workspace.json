@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "84de7ce6990f4d06",
+        "id": "61b04dbafefd3ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "110eb0a41673e894",
+            "id": "3783c00c0338e580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML_and_DL/Yolov8.md",
+                "file": "Task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39d171cb6cf6c028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "关联规则.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "40d374c51d756c4f",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML_and_DL/Yolov8.md",
+                "file": "关联规则.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML_and_DL/Yolov8.md",
+                "file": "关联规则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML_and_DL/Yolov8.md"
+                "file": "关联规则.md"
               }
             }
           },
@@ -167,20 +179,21 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "110eb0a41673e894",
+  "active": "39d171cb6cf6c028",
   "lastOpenFiles": [
-    "ML_and_DL/loss function.md",
+    "关联规则.md",
+    "Task.md",
     "ML_and_DL/Yolov8.md",
+    "README.md",
+    "Latex 数学符号.md",
+    "ML_and_DL/loss function.md",
     "Competitions.md",
     "ML_and_DL/Stochastic Gradient Desent.md",
     "optimizer.md",
-    "Task.md",
     "ML_and_DL/支持向量机（svm).md",
-    "Latex 数学符号.md",
     "作业相关/动画欣赏汇报.md",
     "algorithm/质数筛选.md",
     "学习进度.md",
-    "README.md",
     "ML_and_DL",
     "Pasted image 20240729165843.png",
     "Yolov8.005.png",
@@ -210,7 +223,6 @@
     "algorithm/排序/冒泡排序.md",
     "algorithm/排序/选择排序.md",
     "algorithm/排序/插入排序.md",
-    "conflict-files-obsidian-git.md",
     "编程",
     "作业相关",
     "英语",
