@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "关联规则.md",
+                "file": "ML_and_DL/关联规则.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "关联规则.md",
+                "file": "ML_and_DL/关联规则.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "关联规则.md",
+                "file": "ML_and_DL/关联规则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "关联规则.md"
+                "file": "ML_and_DL/关联规则.md"
               }
             }
           },
@@ -179,9 +179,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "39d171cb6cf6c028",
+  "active": "9fa263d2dd19e100",
   "lastOpenFiles": [
-    "关联规则.md",
+    "ML_and_DL/关联规则.md",
     "Task.md",
     "ML_and_DL/Yolov8.md",
     "README.md",
