@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "9cc51d8b68654f1b",
+    "id": "90b9df614ca3575d",
     "type": "split",
     "children": [
       {
-        "id": "12723f0b617eed65",
+        "id": "43c079a2105d3ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "0029af9b55ef6ec4",
+            "id": "dd61db273ada3af6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "books.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4ee3eba2f817325e",
+    "id": "88e7a7f88425b5a6",
     "type": "split",
     "children": [
       {
-        "id": "22986a703d10115e",
+        "id": "ad6b97545785330f",
         "type": "tabs",
         "children": [
           {
-            "id": "5dbef7a7d566653d",
+            "id": "cc56d1f8453c438d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "e25cf12ca2dc2955",
+            "id": "b68628eb198e10c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "ee27611b5af5c9e0",
+            "id": "7ff8d065b77c0594",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "fdabd583cba17d3e",
+    "id": "748ccd133cbb71d5",
     "type": "split",
     "children": [
       {
-        "id": "9407c0af415ca8a6",
+        "id": "a77033ede6463c18",
         "type": "tabs",
         "children": [
           {
-            "id": "59652fc4fc84eb61",
+            "id": "324f8c8523dbfe02",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "dd64a48135245a83",
+            "id": "076f272a986dda44",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -105,7 +105,7 @@
             }
           },
           {
-            "id": "9e019dc49014afe0",
+            "id": "6b71afbb66e4cf8c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -117,7 +117,7 @@
             }
           },
           {
-            "id": "3e34b7ddd1947fd1",
+            "id": "b52a42bf77270889",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +128,7 @@
             }
           },
           {
-            "id": "0d3eec09ef8495a8",
+            "id": "258db8f7ea2b29cc",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -137,12 +137,12 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,19 +157,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0029af9b55ef6ec4",
+  "active": "cc56d1f8453c438d",
   "lastOpenFiles": [
-    "books.md~",
-    "Task.md",
-    "ML_and_DL/loss function.md",
-    "ML_and_DL/Yolov8.md",
-    "ML_and_DL/Stochastic Gradient Desent.md",
-    "ML_and_DL/Naive Bayes&GMM&BN.md",
-    "test.md",
+    "Latex 数学符号.md",
     "optimizer.md",
-    "README.md",
-    "ML_and_DL/支持向量机（svm).md",
-    "Competitions.md",
-    "ML_and_DL/目标检测中常用指标.md"
+    "Task.md",
+    "books.md",
+    "ML_and_DL/关联规则.md",
+    "ML_and_DL/目标检测中常用指标.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
