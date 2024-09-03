@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "monospaceFontFamily": "Hack Nerd Font Mono,Source Code Pro",
+  "monospaceFontFamily": "Hack Nerd Font Mono,JetBrainsMono Nerd Font",
   "translucency": false,
-  "cssTheme": "Things",
+  "cssTheme": "Catppuccin",
   "theme": "obsidian",
-  "textFontFamily": "JetBrains Mono,JetBrainsMono Nerd Font",
-  "interfaceFontFamily": "Microsoft YaHei UI,Microsoft Sans Serif",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "Microsoft YaHei UI,Microsoft Sans Serif,Liberation Mono",
   "baseFontSize": 16
 }

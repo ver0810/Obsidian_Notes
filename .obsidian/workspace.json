@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "1bfb9ad9e575c23c",
+    "id": "9cc51d8b68654f1b",
     "type": "split",
     "children": [
       {
-        "id": "fcbb2b4365f84fe4",
+        "id": "12723f0b617eed65",
         "type": "tabs",
         "children": [
           {
-            "id": "1c6aa3ac1fa10a2c",
+            "id": "0029af9b55ef6ec4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task.md",
-                "mode": "source",
+                "file": "books.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9681b2937a994bbb",
+    "id": "4ee3eba2f817325e",
     "type": "split",
     "children": [
       {
-        "id": "9e389e7162f0db33",
+        "id": "22986a703d10115e",
         "type": "tabs",
         "children": [
           {
-            "id": "9fa263d2dd19e100",
+            "id": "5dbef7a7d566653d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "f17a788f57e41290",
+            "id": "e25cf12ca2dc2955",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "b8f497b9303436b1",
+            "id": "ee27611b5af5c9e0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,25 +69,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
-    "id": "40d374c51d756c4f",
+    "id": "fdabd583cba17d3e",
     "type": "split",
     "children": [
       {
-        "id": "c17963d893f359e8",
+        "id": "9407c0af415ca8a6",
         "type": "tabs",
         "children": [
           {
-            "id": "f7afff070434e497",
+            "id": "59652fc4fc84eb61",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd64a48135245a83",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task.md",
-                "collapseAll": true,
+                "file": "books.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -98,19 +105,19 @@
             }
           },
           {
-            "id": "43283dfc25d18933",
+            "id": "9e019dc49014afe0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task.md",
+                "file": "books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e08aeb7cecae0bbd",
+            "id": "3e34b7ddd1947fd1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,90 +128,48 @@
             }
           },
           {
-            "id": "bd85753dd8f4449e",
+            "id": "0d3eec09ef8495a8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task.md"
+                "file": "books.md"
               }
-            }
-          },
-          {
-            "id": "43101aae09f4a4b3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "607ccef43e0e26b6",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "marp-slides:Show Slide Preview": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "1c6aa3ac1fa10a2c",
+  "active": "0029af9b55ef6ec4",
   "lastOpenFiles": [
-    "工具/English learning.md",
-    "工具/Account.md",
-    "学习进度.md",
+    "books.md~",
     "Task.md",
-    "conflict-files-obsidian-git.md",
-    "编程/C++重载运算符和重载函数.md",
-    "编程/装饰器_decorators_.md",
-    "作业相关/assignment for animation appreciation.md",
-    "2024-05-08.md",
-    "工具/app.md",
-    "编程",
-    "作业相关",
-    "英语",
-    "工具/obsidian.md",
-    "工具",
-    "Linux",
-    "英语/英语演讲.md",
-    "编程/shell.md",
-    "Linux/Hyprland 下高分辨率缩放.md",
+    "ML_and_DL/loss function.md",
+    "ML_and_DL/Yolov8.md",
+    "ML_and_DL/Stochastic Gradient Desent.md",
+    "ML_and_DL/Naive Bayes&GMM&BN.md",
+    "test.md",
+    "optimizer.md",
     "README.md",
-    "工具/Markdown 教程.md",
-    "Linux/Archlinux安装.md",
-    "作业相关/离散数学第一次作业.md",
-    "未命名.canvas",
-    "algorithm/排序/冒泡排序.md",
-    "algorithm/排序/选择排序.md",
-    "algorithm/排序/插入排序.md",
-    "algorithm/树/二叉树的遍历.md",
-    "algorithm/树/二叉搜索树（Binary Search Tree）.md",
-    "algorithm/高精度模拟.md",
-    "algorithm/二分查找.md",
-    "algorithm/树/Trees.md",
-    "未分类",
-    "algorithm/树",
-    "algorithm/排序",
-    "algorithm",
-    "算法学习/排序",
-    "未命名 1.canvas"
+    "ML_and_DL/支持向量机（svm).md",
+    "Competitions.md",
+    "ML_and_DL/目标检测中常用指标.md"
   ]
 }
