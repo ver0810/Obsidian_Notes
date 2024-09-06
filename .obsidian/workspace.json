@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61b04dbafefd3ed2",
+        "id": "01cc16801eeeebbf",
         "type": "tabs",
         "children": [
           {
-            "id": "3783c00c0338e580",
+            "id": "b49146ec71cdfa2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "39d171cb6cf6c028",
+            "id": "640eabfb821682c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML_and_DL/关联规则.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML_and_DL/关联规则.md",
+                "file": "未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML_and_DL/关联规则.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML_and_DL/关联规则.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -179,10 +179,11 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "9fa263d2dd19e100",
+  "active": "640eabfb821682c9",
   "lastOpenFiles": [
-    "ML_and_DL/关联规则.md",
+    "未命名.md",
     "Task.md",
+    "ML_and_DL/关联规则.md",
     "ML_and_DL/Yolov8.md",
     "README.md",
     "Latex 数学符号.md",
@@ -222,7 +223,6 @@
     "工具/English learning.md",
     "algorithm/排序/冒泡排序.md",
     "algorithm/排序/选择排序.md",
-    "algorithm/排序/插入排序.md",
     "编程",
     "作业相关",
     "英语",
