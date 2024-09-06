@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "使用正则化图神经网络实现基于脑电图的情绪识别.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "使用正则化图神经网络实现基于脑电图的情绪识别.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "使用正则化图神经网络实现基于脑电图的情绪识别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "使用正则化图神经网络实现基于脑电图的情绪识别.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   "active": "640eabfb821682c9",
   "lastOpenFiles": [
     "未命名.md",
+    "使用正则化图神经网络实现基于脑电图的情绪识别.md",
     "Task.md",
     "ML_and_DL/关联规则.md",
     "ML_and_DL/Yolov8.md",
@@ -222,7 +223,6 @@
     "工具/Markdown 教程.md",
     "工具/English learning.md",
     "algorithm/排序/冒泡排序.md",
-    "algorithm/排序/选择排序.md",
     "编程",
     "作业相关",
     "英语",
