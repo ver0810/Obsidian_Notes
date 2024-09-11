@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43c079a2105d3ef7",
+        "id": "8cc9a44cb40092cf",
         "type": "tabs",
         "children": [
           {
-            "id": "dd61db273ada3af6",
+            "id": "df7d0f096235bbb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books.md",
+                "file": "Task.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books.md",
+                "file": "Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books.md",
+                "file": "Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books.md"
+                "file": "Task.md"
               }
             }
           }
@@ -157,13 +157,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cc56d1f8453c438d",
+  "active": "df7d0f096235bbb6",
   "lastOpenFiles": [
+    "ML_and_DL/关联规则.md",
+    "books.md",
     "Latex 数学符号.md",
     "optimizer.md",
     "Task.md",
-    "books.md",
-    "ML_and_DL/关联规则.md",
     "ML_and_DL/目标检测中常用指标.md",
     "conflict-files-obsidian-git.md"
   ]
