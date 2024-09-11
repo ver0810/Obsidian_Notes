@@ -1,24 +1,8 @@
 > [!Tip] *Task can place here.*
-## All Task
-```tasks
 
-```
-
-<<<<<<< HEAD
-## Not done
-```tasks
-not done
-```
-## Recent
-
-- [x] the final [[assignment for animation appreciation]] 📅 2024-6-9 ✅ 2024-07-15
-- [ ] MIT-Data structure 6006
-- [ ] Learning SVM(Support Vector Machine) 🛫 2024-07-30 
-=======
-```tasks
-```
-## Recent
-- [ ] Final [[assignment for animation appreciation]] 📅 2024-06-09
-- [x] Final [[assignment for animation appreciation]] 📅 2024-06-09 ✅ 2024-07-15
+## Weekly Task
+- [ ] To learn the RNN model.📅 2024-09-15 
 
 
+## Long term Task
+- [ ] To learn **Rust** language.
