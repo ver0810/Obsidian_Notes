@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8fc7bcd10faa72b1",
+        "id": "23512e06bc73b93d",
         "type": "tabs",
         "children": [
           {
-            "id": "c01cd4244cad147b",
+            "id": "b811e1338be5d4dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c01cd4244cad147b",
+  "active": "b811e1338be5d4dc",
   "lastOpenFiles": [
     "Task.md",
     "ML_and_DL/关联规则.md",
