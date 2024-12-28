@@ -1,21 +1,13 @@
 > [!Tip] *Task can place here.*
 ## All Task
-```tasks
 
-```
+## Weekly Task
+- 多媒体技术
+- [x] 实验二 ✅ 2024-12-23
+- [x] 期末答辩 📅 2024-12-23 ✅ 2024-12-23
 
-<<<<<<< HEAD
-## Not done
-```tasks
-not done
-```
-## Recent
+## 24年十二月
+- [ ] 数据结构考试⏳ 2024-12-26 
+- [ ] c++考试 ⏳ 2024-12-27 
 
-- [x] the final [[assignment for animation appreciation]] 📅 2024-6-9 ✅ 2024-07-15
-- [ ] MIT-Data structure 6006
-- [ ] Learning SVM(Support Vector Machine) 🛫 2024-07-30 
-=======
-```tasks
-```
-## Recent
-- [x] Final [[assignment for animation appreciation]] 📅 2024-06-09 ✅ 2024-07-15
+
